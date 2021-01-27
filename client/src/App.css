@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.left {
+  background-color: white !important;
+  border-top-left-radius: 30px;
+  border-bottom-left-radius: 30px;
+}
+body {
+  background-color: #b6ddfc;
+}
+.clr {
+  color: #682dd8 !important;
+}
+a {
+  color: #682dd8 !important;
+}
+.login-section {
+  border-radius: 30px;
+  margin-top: 30px !important  ;
+}
+.frm {
+  font-size: smaller;
+}
+.p1 {
+  font-size: medium;
+}
+
+.signup {
+  border-radius: 25px;
+  color: #682dd8;
+  border-color: #682dd8;
+}
+
+.login {
+  background-color: #682dd8;
+  border-color: #682dd8;
+}
